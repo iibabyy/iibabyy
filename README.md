@@ -1,5 +1,5 @@
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif)
-
-<div width="100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iibabyy&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
-</div>
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iibabyy&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" 
+       height="150" 
+       style="display: block; margin: 0 auto;" />
+</p>
